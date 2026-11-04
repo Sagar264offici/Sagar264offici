@@ -50,7 +50,7 @@ Usually the answer to #2 is yes.
 ### Current operating system:
 
 ```text
-IDE           → open
+IDE           → VsCode 
 Browser       → 37 tabs
 Terminal      → suspicious
 Coffee        → insufficient
